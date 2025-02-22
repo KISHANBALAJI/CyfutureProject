@@ -50,7 +50,7 @@ pip install streamlit tensorflow numpy pillow requests transformers
 
 ## Note : 
 If you want to train your model use this [dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset) .
-Use this Jupiter Notebook to train the model.
+Use wildlife-species-classification-version-2.ipynb to train the model.
 
 ## Acknowledgments
 - ResNet50 Model: Pre-trained on ImageNet
