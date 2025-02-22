@@ -49,7 +49,8 @@ pip install streamlit tensorflow numpy pillow requests transformers
 4. View fun facts and ask questions about the species.
 
 ## Note : 
-if you want to train your model use this [dataset](https://example.com](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset)
+if you want to train your model use this [dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset)
+
 ## Acknowledgments
 - ResNet50 Model: Pre-trained on ImageNet
 - Hugging Face Transformers for Generative AI
