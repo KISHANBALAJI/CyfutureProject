@@ -48,8 +48,10 @@ pip install streamlit tensorflow numpy pillow requests transformers
 3. The app will classify the image and provide relevant insights.
 4. View fun facts and ask questions about the species.
 
-
+## Note : 
+if you want to train your own model use the given dataset - https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset
 ## Acknowledgments
 - ResNet50 Model: Pre-trained on ImageNet
 - Hugging Face Transformers for Generative AI
+  
 
