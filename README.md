@@ -49,8 +49,8 @@ pip install streamlit tensorflow numpy pillow requests transformers
 4. View fun facts and ask questions about the species.
 
 ## Note : 
-If you want to train your model use this [dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset) .
-Use wildlife-species-classification-version-2.ipynb to train the model.
+1. If you want to train your model use this [dataset](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset).
+2. Use [wildlife-species-classification-version-2.ipynb](https://github.com/KISHANBALAJI/CyfutureProject/blob/main/wildlife-species-classification-version-2.ipynb) to train the model.
 
 ## Acknowledgments
 - ResNet50 Model: Pre-trained on ImageNet
