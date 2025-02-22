@@ -1,5 +1,5 @@
 # AI Wildlife Identifier
-# Wildlife Classification App with Generative AI
+
 
 ## Overview
 This Streamlit-based web application classifies wildlife species using the ResNet50 deep learning model. Additionally, it integrates Generative AI to provide detailed species information, fun facts, and an interactive Q&A feature.
@@ -48,18 +48,6 @@ pip install streamlit tensorflow numpy pillow requests transformers
 3. The app will classify the image and provide relevant insights.
 4. View fun facts and ask questions about the species.
 
-## File Structure
-```
-|-- app.py  # Main Streamlit application
-|-- requirements.txt  # Required dependencies
-|-- README.md  # Documentation
-```
-
-## Contributing
-Feel free to contribute to this project by creating issues or submitting pull requests.
-
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 - ResNet50 Model: Pre-trained on ImageNet
